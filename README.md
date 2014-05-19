@@ -1,7 +1,8 @@
-web-engineering
-===============
+Web Enginnering Reading List
+============================
 
-A reading list for web engineering
+* A reading list for web-enginnering
+* Please send suggestions to [@roundscope](https://twitter.com/roundscope) or [open an issue](https://github.com/roundscope/web-engineering/issues)
 
 #### Books
 
