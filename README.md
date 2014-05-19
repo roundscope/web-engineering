@@ -13,6 +13,7 @@ Web Engineering Reading List
 #### Posts
 
 * [2-Way Data Binding under the Microscope](http://staal.io/blog/2014/02/05/2-way-data-binding-under-the-microscope) (Boris Staal)
+* [URLs vs. URIs: Differences and Examples](http://www.danielmiessler.com/study/url_vs_uri/) (Daniel Miessler)
 
 
 #### Books
