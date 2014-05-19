@@ -19,6 +19,7 @@ Web Engineering Reading List
  
 #### Papers
 * [Do Not Pass This Way Again. Considering mySQL?](http://grimoire.ca/mysql/choose-something-else)
+* [Making Better Estimates](http://spin.atomicobject.com/2008/11/26/making-better-estimates/) (Carl Erickson)
 
 #### Books
 
