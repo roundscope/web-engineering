@@ -1,4 +1,4 @@
-Web Enginnering Reading List
+Web Engineering Reading List
 ============================
 
 * A reading list for web-enginnering
