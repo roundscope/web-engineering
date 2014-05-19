@@ -26,6 +26,7 @@ Web Engineering Reading List
 #### Books
 
 * [High Performance Browser Networking](http://shop.oreilly.com/product/0636920028048.do) (Ilya Grigorik)
+* [Learn you some Erlang](http://learnyousomeerlang.com/content)
 
 
 #### References
