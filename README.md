@@ -7,6 +7,7 @@ Web Engineering Reading List
 #### Screencasts
 
 * [Episode 3: Variable Scope In JavaScript](http://www.watchmecode.net/javascript-scope)
+* [Workflows of Refactoring](http://martinfowler.com/articles/workflowsOfRefactoring/) (Martin Fowler)
 
  
 #### Posts
