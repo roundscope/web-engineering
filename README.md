@@ -7,3 +7,9 @@ Web Engineering Reading List
 #### Books
 
 * [High Performance Browser Networking](http://shop.oreilly.com/product/0636920028048.do) (Ilya Grigorik)
+
+
+
+#### References
+
+* [Services Engineering Reading List with a focus on cloud infrastructure services](https://github.com/mmcgrana/services-engineering) (Mark McGranaghan)
