@@ -2,12 +2,21 @@ Web Engineering Reading List
 ============================
 
 * A reading list for web-enginnering
-* Please send suggestions to [@roundscope](https://twitter.com/roundscope) or [open an issue](https://github.com/roundscope/web-engineering/issues)
+* Please send suggestions to [@roundscope](https://twitter.com/roundscope) or [open an issue](https://github.com/roundscope/web-engineering/issues) 
+
+#### Screencasts
+
+* [Episode 3: Variable Scope In JavaScript](http://www.watchmecode.net/javascript-scope)
+
+ 
+#### Posts
+
+* [2-Way Data Binding under the Microscope](http://staal.io/blog/2014/02/05/2-way-data-binding-under-the-microscope) (Boris Staal)
+
 
 #### Books
 
 * [High Performance Browser Networking](http://shop.oreilly.com/product/0636920028048.do) (Ilya Grigorik)
-
 
 
 #### References
