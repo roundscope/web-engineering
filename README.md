@@ -3,6 +3,11 @@ Web Engineering Reading List
 
 * A reading list for web-enginnering
 * Please send suggestions to [@roundscope](https://twitter.com/roundscope) or [open an issue](https://github.com/roundscope/web-engineering/issues) 
+ 
+
+#### Know How
+* [Inversion of control](http://en.wikipedia.org/wiki/Inversion_of_control) (Wikipedia)
+    * [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html) (Martin Fowler) 
 
 #### Screencasts
 
