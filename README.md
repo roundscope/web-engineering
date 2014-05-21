@@ -8,6 +8,10 @@ Web Engineering Reading List
 #### Know How
 * [Inversion of control](http://en.wikipedia.org/wiki/Inversion_of_control) (Wikipedia)
     * [Inversion of Control Containers and the Dependency Injection pattern](http://martinfowler.com/articles/injection.html) (Martin Fowler) 
+* [SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion)](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) (Wikipedia)
+* [INVEST](http://en.wikipedia.org/wiki/INVEST_(mnemonic)) (Wikipedia)
+    * [When is my user story complete?](http://pivotallabs.com/when-is-my-user-story-complete/) (Tami Resi)
+* [YAGNI](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it) (Wikipedia)
 
 #### Screencasts
 
