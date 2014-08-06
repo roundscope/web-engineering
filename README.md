@@ -37,6 +37,7 @@ Web Engineering Reading List
 
 * [High Performance Browser Networking](http://shop.oreilly.com/product/0636920028048.do) (Ilya Grigorik)
 * [Learn you some Erlang](http://learnyousomeerlang.com/content)
+* [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 
 
 #### References
