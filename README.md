@@ -12,6 +12,7 @@ Web Engineering Reading List
 * [INVEST](http://en.wikipedia.org/wiki/INVEST_(mnemonic)) (Wikipedia)
     * [When is my user story complete?](http://pivotallabs.com/when-is-my-user-story-complete/) (Tami Resi)
 * [YAGNI](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it) (Wikipedia)
+* [MoSCoW method](http://en.wikipedia.org/wiki/MoSCoW_method) (Wikipedia)
 
 #### Screencasts
 
