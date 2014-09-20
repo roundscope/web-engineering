@@ -26,16 +26,17 @@ Web Engineering Reading List
 * [URLs vs. URIs: Differences and Examples](http://www.danielmiessler.com/study/url_vs_uri/) (Daniel Miessler)
 * [What's in a story?](http://dannorth.net/whats-in-a-story/) (Dan North)
 * [Why you should care about functional programming](http://pivotallabs.com/why-you-should-care-about-functional-programming/) (John Barker)
+* [Do Not Pass This Way Again. Considering mySQL?](http://grimoire.ca/mysql/choose-something-else)
 
  
 #### Papers
-* [Do Not Pass This Way Again. Considering mySQL?](http://grimoire.ca/mysql/choose-something-else)
 * [Making Better Estimates](http://spin.atomicobject.com/2008/11/26/making-better-estimates/) (Carl Erickson)
 * [11 Best Practices for Peer Code Review](http://smartbear.com/SmartBear/media/pdfs/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf) (SmartBear LLC)
 * [Map-Reduce-Merge: Simpliﬁed Relational Data Processing on Large Clusters](http://www.cs.duke.edu/courses/cps399.28/current/papers/sigmod07-YangDasdanEtAl-map_reduce_merge.pdf)
 
 #### Books
 
+* [HTML: The Living Standard - Edition for Web Developers](https://developers.whatwg.org)
 * [High Performance Browser Networking](http://shop.oreilly.com/product/0636920028048.do) (Ilya Grigorik) ([read online](http://chimera.labs.oreilly.com/books/1230000000545/index.html))
 * [Learn you some Erlang](http://learnyousomeerlang.com/content)
 * [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
