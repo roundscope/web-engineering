@@ -14,6 +14,11 @@ Web Engineering Reading List
 * [YAGNI](http://en.wikipedia.org/wiki/You_aren't_gonna_need_it) (Wikipedia)
 * [MoSCoW method](http://en.wikipedia.org/wiki/MoSCoW_method) (Wikipedia)
 
+### Developer Resources and Tools
+* [HTML: The Living Standard - Edition for Web Developers](https://developers.whatwg.org)
+* [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
+* [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+
 #### Screencasts
 
 * [Episode 3: Variable Scope In JavaScript](http://www.watchmecode.net/javascript-scope)
@@ -36,7 +41,6 @@ Web Engineering Reading List
 
 #### Books
 
-* [HTML: The Living Standard - Edition for Web Developers](https://developers.whatwg.org)
 * [High Performance Browser Networking](http://shop.oreilly.com/product/0636920028048.do) (Ilya Grigorik) ([read online](http://chimera.labs.oreilly.com/books/1230000000545/index.html))
 * [Learn you some Erlang](http://learnyousomeerlang.com/content)
 * [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
