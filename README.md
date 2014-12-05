@@ -19,6 +19,10 @@ Web Engineering Reading List
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [List of HTTP header fields](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) (Wikipedia)
+ 
+
+#### W3C Specs and Drafts
+* [Beacon](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/Beacon/Overview.html) (Editor's Draft February 12, 2014)
 
 #### Screencasts
 
