@@ -18,6 +18,7 @@ Web Engineering Reading List
 * [HTML: The Living Standard - Edition for Web Developers](https://developers.whatwg.org)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [List of HTTP header fields](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) (Wikipedia)
 
 #### Screencasts
 
