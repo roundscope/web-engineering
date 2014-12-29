@@ -16,6 +16,7 @@ Web Engineering Reading List
 
 ### Developer Resources and Tools
 * [HTML: The Living Standard - Edition for Web Developers](https://developers.whatwg.org)
+    * [MDN: HTTP is an application-layer protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com)
 * [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [List of HTTP header fields](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) (Wikipedia)
