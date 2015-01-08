@@ -7,6 +7,7 @@ Web Engineering Reading List
 
 #### Know How
 * [Slow programming](https://en.wikipedia.org/wiki/Slow_programming) (Wikipedia)
+    * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) (Peter Norvig)
 * [SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion)](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) (Wikipedia)
 * [INVEST](http://en.wikipedia.org/wiki/INVEST_(mnemonic)) (Wikipedia)
     * [When is my user story complete?](http://pivotallabs.com/when-is-my-user-story-complete/) (Tami Resi)
