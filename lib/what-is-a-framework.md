@@ -6,3 +6,9 @@
 * A framework nurtures a feedback loop that helps features iterate as shared understanding develops;
 
 > cited, ["Fluent 2014, "Keynote With Yehuda Katz and Tom Dale"](https://www.youtube.com/watch?v=jScLjUlLTLI)
+
+### What is a library is vs what is a framework is
+
+Angular.js is *a toolset for building the framework* most suited to your application development.
+
+Ember.js is a *framework* for building ambitious applications.
