@@ -2,8 +2,8 @@ Web Engineering Reading List
 ============================
 
 * A reading list for web-enginnering
-* Please send suggestions to [@roundscope](https://twitter.com/roundscope) or [open an issue](https://github.com/roundscope/web-engineering/issues) 
- 
+* Please send suggestions to [@zatvobor](https://twitter.com/zatvobor) or [open an issue](https://github.com/zatvobor/web-engineering/issues)
+
 
 #### Know How
 * [Slow programming](https://en.wikipedia.org/wiki/Slow_programming) (Wikipedia)
@@ -30,7 +30,7 @@ Web Engineering Reading List
 * [List of HTTP header fields](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) (Wikipedia)
 * [http:// IETF HTTP Working Group](https://httpwg.github.io)
     * [HTTP/2](https://http2.github.io)
- 
+
 
 #### W3C Specs and Drafts
 * [Beacon](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/Beacon/Overview.html) (Editor's Draft February 12, 2014)
@@ -42,7 +42,7 @@ Web Engineering Reading List
 * [Episode 3: Variable Scope In JavaScript](http://www.watchmecode.net/javascript-scope)
 * [Workflows of Refactoring](http://martinfowler.com/articles/workflowsOfRefactoring/) (Martin Fowler)
 
- 
+
 #### Posts
 
 * [2-Way Data Binding under the Microscope](http://staal.io/blog/2014/02/05/2-way-data-binding-under-the-microscope) (Boris Staal)
@@ -51,7 +51,7 @@ Web Engineering Reading List
 * [Why you should care about functional programming](http://pivotallabs.com/why-you-should-care-about-functional-programming/) (John Barker)
 * [Do Not Pass This Way Again. Considering mySQL?](http://grimoire.ca/mysql/choose-something-else)
 
- 
+
 #### Papers
 * [Making Better Estimates](http://spin.atomicobject.com/2008/11/26/making-better-estimates/) (Carl Erickson)
 * [11 Best Practices for Peer Code Review](http://smartbear.com/SmartBear/media/pdfs/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf) (SmartBear LLC)
